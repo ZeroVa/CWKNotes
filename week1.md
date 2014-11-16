@@ -43,7 +43,7 @@ You'll be able to perform the following tasks:
  - Without sprites, objects are invisible.
  - Objects listen for certain events to happen, and react with actions
  - Speed is how fast. Gravity is how fast something **gets faster**.
- - The coordinate (0,0) is the **top-left**. Forward is x gets bigger moving **forward**, and y gets bigger moving **down**
+ - The coordinate (0,0) is the **top-left**. X gets bigger moving **forward**, and y gets bigger moving **down**
 
 ## Don't forget...
 
