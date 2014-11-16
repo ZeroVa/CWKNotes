@@ -55,4 +55,8 @@ You'll be able to perform the following tasks:
  - For the Step event, you can run your code over and over. For this, the regular Step event is fine. But if you specifically need to run code at the beginning or ending of a step, there are options available!
 	 - ![](http://i.snag.gy/IA858.jpg)
 
+##After Class
+
+Try using what we've learned in class to make a simple top-down shooter game! You don't need complex graphics (though those are welcome!). You might want to start by playing a few top-down shooters, and see how they work.
+
 > Written with [StackEdit](https://stackedit.io/).
